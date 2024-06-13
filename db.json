@@ -4,7 +4,7 @@
       "id": 1,
       "category": "burger",
       "title": "Cheesburger With Salad",
-      "price": 18,
+      "price": 18.00,
       "rating": 10,
       "image": "https://i.postimg.cc/Kj6CK7Lk/1.png"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "category": "burger",
       "title": "Beef Burger",
-      "price": 15,
+      "price": 15.00,
       "rating": 9,
       "image": "https://i.postimg.cc/FFYRL93N/2.png"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "category": "burger",
       "title": "Royel Cheeseburger",
-      "price": 16,
+      "price": 16.00,
       "rating": 10,
       "image": "https://i.postimg.cc/kX8gTfTH/3.png"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "category": "burger",
       "title": "Black Gambugrer",
-      "price": 14,
+      "price": 14.00,
       "rating": 10,
       "image": "https://i.postimg.cc/vc0s6gbJ/4.png"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "category": "burger",
       "title": "Chicken Burger",
-      "price": 15,
+      "price": 15.00,
       "rating": 10,
       "image": "https://i.postimg.cc/xjBdGW3H/5.png"
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "category": "burger",
       "title": "Cheesburger With Salad",
-      "price": 18,
+      "price": 18.00,
       "rating": 10,
       "image": "https://i.postimg.cc/Kj6CK7Lk/1.png"
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "category": "burger",
       "title": "Beef Burger",
-      "price": 15,
+      "price": 15.00,
       "rating": 9,
       "image": "https://i.postimg.cc/FFYRL93N/2.png"
     },
@@ -60,7 +60,7 @@
       "id": 8,
       "category": "burger",
       "title": "Royel Cheeseburger",
-      "price": 16,
+      "price": 16.00,
       "rating": 10,
       "image": "https://i.postimg.cc/kX8gTfTH/3.png"
     }
